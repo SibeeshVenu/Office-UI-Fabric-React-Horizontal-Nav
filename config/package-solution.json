@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "office-ui-fabric-react-horizontal-nav-client-side-solution",
+    "id": "7446d99f-7f87-4c28-ba48-b8ce74375840",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/office-ui-fabric-react-horizontal-nav.sppkg"
+  }
+}

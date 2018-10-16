@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "office-ui-fabric-react-horizontal-nav",
+    "libraryId": "7446d99f-7f87-4c28-ba48-b8ce74375840",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
